@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a bibliography of required texts and sources on
+  comfort women.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
