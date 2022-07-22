@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides links to related resources on American women authors.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 614c54d0-8217-3615-5518-dae592bad79a
 ---

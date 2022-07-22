@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a bibliography of required texts and sources on
+  comfort women.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: f4a44055-0917-ec1a-a9f6-85ab94800c96
 ---

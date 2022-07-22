@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on course expectations, meeting
+  times, and a statement on plagiarism.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 766d31f7-76ea-68bc-6164-e1a4bba14e65
 ---
