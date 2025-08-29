@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This syllabus provides details on the Spring 2003 version of the course.
-file: /courses/21l-512-american-authors-american-women-authors-spring-2003/473da579655b341b32c1e0dd789abaa0_21L512_syllabus_spring_03.pdf
+file: /ol-ocw-studio-app/courses/21l-512-american-authors-american-women-authors-spring-2003/473da579655b341b32c1e0dd789abaa0_21L512_syllabus_spring_03.pdf
 file_size: 99724
 file_type: application/pdf
 learning_resource_types: []
